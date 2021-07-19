@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/multiquizzesfrontend/static/css/main.116829c8.chunk.css",
+    "main.js": "/multiquizzesfrontend/static/js/main.e90939c5.chunk.js",
+    "main.js.map": "/multiquizzesfrontend/static/js/main.e90939c5.chunk.js.map",
+    "runtime-main.js": "/multiquizzesfrontend/static/js/runtime-main.39f3d453.js",
+    "runtime-main.js.map": "/multiquizzesfrontend/static/js/runtime-main.39f3d453.js.map",
+    "static/js/2.46831fd4.chunk.js": "/multiquizzesfrontend/static/js/2.46831fd4.chunk.js",
+    "static/js/2.46831fd4.chunk.js.map": "/multiquizzesfrontend/static/js/2.46831fd4.chunk.js.map",
+    "index.html": "/multiquizzesfrontend/index.html",
+    "static/css/main.116829c8.chunk.css.map": "/multiquizzesfrontend/static/css/main.116829c8.chunk.css.map",
+    "static/js/2.46831fd4.chunk.js.LICENSE.txt": "/multiquizzesfrontend/static/js/2.46831fd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f3d453.js",
+    "static/js/2.46831fd4.chunk.js",
+    "static/css/main.116829c8.chunk.css",
+    "static/js/main.e90939c5.chunk.js"
+  ]
+}
